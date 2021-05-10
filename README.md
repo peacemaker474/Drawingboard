@@ -5,4 +5,6 @@ Clone coding study (nomadcoders)
 
 // NEXT TO DO
 
-// JAVASCRIPT 지우기 버튼 하나 만들기!
+// JAVASCRIPT 지우기 버튼 하나 만들기
+
+// 색상 버튼 rgb 값으로 받아오기
